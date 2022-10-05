@@ -9,4 +9,4 @@
 4. Consultas
 
 
-Trabajos realizados en el curso Bases de Datos PUC, 2020-2. 
+Trabajos realizados en el curso Bases de Datos PUC, 2020-2. Hay trabajos en grupo que no son de mi sola autoría.
